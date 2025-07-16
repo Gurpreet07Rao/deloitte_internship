@@ -1,0 +1,8 @@
+{
+  "deviceID": "12345",
+  "deviceType": "sensor",
+  "timestamp": 1625097600000,
+  "location": "USA/NewYork/Manhattan/Factory1/SectionA",
+  "operationStatus": "active",
+  "temp": 22.5
+}

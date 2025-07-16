@@ -1,0 +1,16 @@
+{
+  "deviceID": "12345",
+  "deviceType": "sensor",
+  "timestamp": 1625097600000,
+  "location": {
+    "country": "USA",
+    "city": "NewYork",
+    "area": "Manhattan",
+    "factory": "Factory1",
+    "section": "SectionA"
+  },
+  "data": {
+    "status": "active",
+    "temperature": 22.5
+  }
+}
